@@ -1,0 +1,9 @@
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\4-1\4-1\bin\Debug\4-1.exe.config
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\4-1\4-1\bin\Debug\4-1.exe
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\4-1\4-1\bin\Debug\4-1.pdb
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\4-1\4-1\obj\Debug\4-1.csprojResolveAssemblyReference.cache
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\4-1\4-1\obj\Debug\4-1.exe
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\4-1\4-1\obj\Debug\4-1.pdb
+C:\Users\LAF\Documents\GitHub\CS_console_practice\4-1\4-1\bin\Debug\4-1.exe.config
+C:\Users\LAF\Documents\GitHub\CS_console_practice\4-1\4-1\obj\Debug\4-1.exe
+C:\Users\LAF\Documents\GitHub\CS_console_practice\4-1\4-1\obj\Debug\4-1.pdb

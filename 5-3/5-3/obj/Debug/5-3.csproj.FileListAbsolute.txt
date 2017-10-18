@@ -1,0 +1,9 @@
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\5-3\5-3\bin\Debug\5-3.exe.config
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\5-3\5-3\bin\Debug\5-3.exe
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\5-3\5-3\bin\Debug\5-3.pdb
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\5-3\5-3\obj\Debug\5-3.csprojResolveAssemblyReference.cache
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\5-3\5-3\obj\Debug\5-3.exe
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\5-3\5-3\obj\Debug\5-3.pdb
+C:\Users\LAF\Documents\GitHub\CS_console_practice\5-3\5-3\bin\Debug\5-3.exe.config
+C:\Users\LAF\Documents\GitHub\CS_console_practice\5-3\5-3\obj\Debug\5-3.exe
+C:\Users\LAF\Documents\GitHub\CS_console_practice\5-3\5-3\obj\Debug\5-3.pdb
