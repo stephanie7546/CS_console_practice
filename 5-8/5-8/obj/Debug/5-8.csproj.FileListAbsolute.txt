@@ -1,0 +1,6 @@
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\5-8\5-8\bin\Debug\5-8.exe.config
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\5-8\5-8\obj\Debug\5-8.csprojResolveAssemblyReference.cache
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\5-8\5-8\bin\Debug\5-8.exe
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\5-8\5-8\bin\Debug\5-8.pdb
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\5-8\5-8\obj\Debug\5-8.exe
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\5-8\5-8\obj\Debug\5-8.pdb
